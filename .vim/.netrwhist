@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/Users/lb/.vim/plugin'
+let g:netrw_dirhist_9='/Users/lb/.vim/pack/custom/opt/neo_basic.vim/plugin'
+let g:netrw_dirhist_8='/Users/lb/.vim/pack/custom/opt/neo_basic.vim'
+let g:netrw_dirhist_7='/Users/lb/.vim/plugin'
+let g:netrw_dirhist_6='/Users/lb/.vim'
+let g:netrw_dirhist_5='/usr/share/vim/vim81'
+let g:netrw_dirhist_4='/Users/lb/.vim_runtime'
+let g:netrw_dirhist_3='/Users/lb/.vim_runtime/vimrcs'
+let g:netrw_dirhist_2='/Users/lb/.vim_runtime'
+let g:netrw_dirhist_1='/Users/lb'
